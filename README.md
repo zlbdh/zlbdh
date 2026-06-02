@@ -17,11 +17,13 @@ It turns maintenance work into:
 
 The project is early and intentionally uses synthetic examples so maintainers can try the workflow without connecting private repositories.
 
-## Try The Demo
+## Try Or Share
 
+- Share page: https://github.com/zlbdh/maintainer-harness/blob/main/docs/share.md
 - Demo path: https://github.com/zlbdh/maintainer-harness/blob/main/docs/demo.md
-- Latest release: https://github.com/zlbdh/maintainer-harness/releases/tag/v0.1.1
+- Latest release: https://github.com/zlbdh/maintainer-harness/releases/tag/v0.1.2
 - Feedback issue: https://github.com/zlbdh/maintainer-harness/issues/5
+- Good first issue: https://github.com/zlbdh/maintainer-harness/issues/6
 
 ## Open Question
 
