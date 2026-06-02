@@ -4,7 +4,7 @@ I am building small, file-based tools for making agent-assisted maintenance easi
 
 ## Current Focus
 
-[Maintainer Harness](https://github.com/zlbdh/maintainer-harness) is an open source control plane for maintainers using Codex or other coding agents.
+[Maintainer Harness](https://zlbdh.github.io/maintainer-harness/) is an open source control plane for maintainers using Codex or other coding agents.
 
 It turns maintenance work into:
 
@@ -19,9 +19,10 @@ The project is early and intentionally uses synthetic examples so maintainers ca
 
 ## Try Or Share
 
-- Share page: https://github.com/zlbdh/maintainer-harness/blob/main/docs/share.md
+- Project site: https://zlbdh.github.io/maintainer-harness/
+- Source repo: https://github.com/zlbdh/maintainer-harness
 - Demo path: https://github.com/zlbdh/maintainer-harness/blob/main/docs/demo.md
-- Latest release: https://github.com/zlbdh/maintainer-harness/releases/tag/v0.1.2
+- Latest release: https://github.com/zlbdh/maintainer-harness/releases/tag/v0.1.3
 - Feedback issue: https://github.com/zlbdh/maintainer-harness/issues/5
 - Good first issue: https://github.com/zlbdh/maintainer-harness/issues/6
 
