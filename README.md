@@ -24,8 +24,9 @@ The project is early and intentionally uses synthetic examples so maintainers ca
 - Demo path: https://github.com/zlbdh/maintainer-harness/blob/main/docs/demo.md
 - Issue-to-review example: https://github.com/zlbdh/maintainer-harness/tree/main/examples/issue-to-review
 - Release workflow example: https://github.com/zlbdh/maintainer-harness/tree/main/examples/release-workflow
+- Security review pass: https://github.com/zlbdh/maintainer-harness/blob/main/docs/security/codex-security-review-pass-2026-06-02.md
 - Redaction guide: https://github.com/zlbdh/maintainer-harness/blob/main/docs/security/redaction-patterns.md
-- Latest release: https://github.com/zlbdh/maintainer-harness/releases/tag/v0.1.6
+- Latest release: https://github.com/zlbdh/maintainer-harness/releases/tag/v0.1.7
 - Feedback issue: https://github.com/zlbdh/maintainer-harness/issues/5
 - Good first issue: https://github.com/zlbdh/maintainer-harness/issues/6
 
