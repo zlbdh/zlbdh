@@ -23,7 +23,8 @@ The project is early and intentionally uses synthetic examples so maintainers ca
 - Source repo: https://github.com/zlbdh/maintainer-harness
 - Demo path: https://github.com/zlbdh/maintainer-harness/blob/main/docs/demo.md
 - Issue-to-review example: https://github.com/zlbdh/maintainer-harness/tree/main/examples/issue-to-review
-- Latest release: https://github.com/zlbdh/maintainer-harness/releases/tag/v0.1.4
+- Redaction guide: https://github.com/zlbdh/maintainer-harness/blob/main/docs/security/redaction-patterns.md
+- Latest release: https://github.com/zlbdh/maintainer-harness/releases/tag/v0.1.5
 - Feedback issue: https://github.com/zlbdh/maintainer-harness/issues/5
 - Good first issue: https://github.com/zlbdh/maintainer-harness/issues/6
 
