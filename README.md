@@ -22,7 +22,8 @@ The project is early and intentionally uses synthetic examples so maintainers ca
 - Project site: https://zlbdh.github.io/maintainer-harness/
 - Source repo: https://github.com/zlbdh/maintainer-harness
 - Demo path: https://github.com/zlbdh/maintainer-harness/blob/main/docs/demo.md
-- Latest release: https://github.com/zlbdh/maintainer-harness/releases/tag/v0.1.3
+- Issue-to-review example: https://github.com/zlbdh/maintainer-harness/tree/main/examples/issue-to-review
+- Latest release: https://github.com/zlbdh/maintainer-harness/releases/tag/v0.1.4
 - Feedback issue: https://github.com/zlbdh/maintainer-harness/issues/5
 - Good first issue: https://github.com/zlbdh/maintainer-harness/issues/6
 
